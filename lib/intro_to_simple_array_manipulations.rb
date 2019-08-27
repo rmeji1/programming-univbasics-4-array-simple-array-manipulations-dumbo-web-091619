@@ -34,6 +34,6 @@ def using_uniq(array)
   array.uniq # remove any dubpicate items
 end
 
-def ()
-
+def using_flatten(array)
+  array.flatten
 end
