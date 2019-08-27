@@ -3,5 +3,5 @@ def using_push(array, string)
 end
 
 def using_unshift(array, string)
-  array.push(string) #=> returns the array itself
+  array.unshift(string) #=> returns the array itself
 end
